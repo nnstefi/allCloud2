@@ -16,5 +16,13 @@
         <members>AccountTrigger</members>
         <name>ApexTrigger</name>
     </types>
+    <types>
+        <members>*</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>RemoteSiteSetting</name>
+    </types>
     <version>52.0</version>
 </Package>
